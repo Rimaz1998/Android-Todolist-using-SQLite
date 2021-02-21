@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Rimaz ToDoList`</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="enter_todo">Enter Todo</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="are_you_sure_you_want_to_delete">Are you sure you want to delete ?</string>
+    <string name="question_text">Are you sure ?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="title_text">Edit Todo</string>
+    <string name="update_text">Update</string>
+</resources>
